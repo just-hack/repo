@@ -1,0 +1,14 @@
+Package: shark
+Architecture: all
+Version: 1.0
+Maintainer: Ashish Singh <ashishsingh@gmail.com>
+Installed-Size: 37.9 MB
+Filename: dists/extras/main/binary-all/shark_1.0_all.deb
+Size: 57923264
+MD5sum: 49736ca79091d8fa1732f7abbb526a87
+SHA1: 2243bd44a90c969ef572279edfe6cc92b6b5fb08
+SHA256: 85f3b7ffaae156d6d9f7291294a3c80f37f6a9152f48289d7878528dbceff80a
+SHA512: 6b176f551e9db8cf7ef549cb57108156cae844c4069dc25d46246e3c6424b7d27aa27f4fd43fe9dd5e8b570a4a86d634a5cc38f1ea0e8704afc9f8daf28328f1
+Homepage: none
+Description: Best fishing tool
+
